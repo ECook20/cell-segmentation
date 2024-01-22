@@ -14,6 +14,8 @@ The following is a README for the cell-cell interface concavity algorithm I desi
 
 **graphmerge1_correctness.pdf**: A pdf of a proof of correctness for the graph merge algorithm used in the concavity merging stage. See Concavity Measure 3D.ipynb for the algorithm -- may be useful to look at while examining the proof. 
 
+**ECook_2023_07_26_Poster.pdf**: A pdf of the poster detailing my research.
+
 **ambrose** [folder]: The zipfile output for Ambrose, generated via the MayaVi Output section of Concavity Measure 3D.ipynb. Example input for visualize_ambrose.py -- also present in Concavity Presentation.pdf
 
 **["i j"]** [folder]: the zipfile output for the border between segment ID i and segment ID j, generated via the Output section of Concavity Measure 3D.ipynb. Example inputs for visualize_3d.py -- when prompted for a key, supply the name of a folder to visualize its contents. Includes examples belonging to each histogram peak + present in Concavity Presentation.pdf: ("428 429", "628 750", "897 944")
